@@ -1,0 +1,44 @@
+body {
+  background: #123;
+  color: #333;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  padding-top: 20px;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+p {
+  background-color: rgba(158,185,162,1.00);
+  overflow: hidden;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.container_17 {
+  background-color: #fff;
+  background-image: url("../img/17_col.gif");
+  background-repeat: repeat;
+  margin-bottom: 20px;
+}
+
+
